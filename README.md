@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👩‍💻 **Hi, I'm Palak Shah** — a Computer Science student at **Durham University** with a strong interest in **Artificial Intelligence**, **Quantum Computing**, and building tech that makes a difference. I enjoy turning creative ideas into reality, whether through solo projects, research, or collaborating at hackathons like **DurHack**, where my team and I built **Affirmasaurus** — a mental health app powered by facial recognition and affirmations (and yes, dinosaurs 🦖).
+👩‍💻 **Hi, I'm Palak Shah**: a Computer Science student at **Durham University** with a strong interest in **Artificial Intelligence**, **Quantum Computing**, and building tech that makes a difference. I enjoy turning creative ideas into reality, whether through solo projects, research, or collaborating at hackathons like **DurHack**. 
 
 ---
 
@@ -10,13 +10,11 @@
 - Computer Vision with **OpenCV** for face and gesture tracking
 - Discrete Mathematics – flows, matchings, and graph theory
 - Full-stack development with **Python**, **Streamlit**, and **Flask**
-- Sharpening my problem-solving and algorithmic thinking through projects and courses
 
 ---
 
 ### 🤝 Open to Collaborations In
 - AI/ML-powered tools and research
-- Cross-platform app development with Python (**BeeWare**, **Kivy**)
 - Projects focused on mental health, education, or social good
 - Hackathons, open-source contributions, and internships
 
@@ -25,17 +23,12 @@
 ### 🙋‍♀️ I’d Love Help With
 - Contributing to impactful open-source AI projects
 - Making my apps more production-ready and scalable
-- Learning more about ethical AI and responsible data use
-- Software engineering best practices for cleaner architecture
 
 ---
 
 ### 💬 Ask Me About
 - How we created **Affirmasaurus** at DurHack 🦖  
-- My journey in AI, quantum computing, and computer vision  
-- Building interactive recommender systems and quizzes  
 - Studying Computer Science at **Durham University**  
-- Raising £400 for charity by combining creativity and community  
 - Anything Python, AI, Quantum, or how to get started in tech as a student!
 
 ---
